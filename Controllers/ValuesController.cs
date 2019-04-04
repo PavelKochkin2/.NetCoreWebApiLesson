@@ -13,7 +13,7 @@ namespace ApiLesson.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "this", "is", "get", "method" };
+            return new[] { "this", "is", "get", "method" };
         }
 
         //GET: api/values/5
