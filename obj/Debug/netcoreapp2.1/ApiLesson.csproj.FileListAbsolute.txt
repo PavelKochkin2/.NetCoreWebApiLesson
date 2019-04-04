@@ -1,0 +1,14 @@
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\bin\Debug\netcoreapp2.1\ApiLesson.deps.json
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\bin\Debug\netcoreapp2.1\ApiLesson.runtimeconfig.json
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\bin\Debug\netcoreapp2.1\ApiLesson.runtimeconfig.dev.json
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\bin\Debug\netcoreapp2.1\ApiLesson.dll
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\bin\Debug\netcoreapp2.1\ApiLesson.pdb
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.csprojAssemblyReference.cache
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.csproj.CoreCompileInputs.cache
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.RazorAssemblyInfo.cache
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.RazorAssemblyInfo.cs
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.AssemblyInfoInputs.cache
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.AssemblyInfo.cs
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.RazorTargetAssemblyInfo.cache
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.dll
+C:\Users\p.kochkin\source\repos\ApiLesson\ApiLesson\obj\Debug\netcoreapp2.1\ApiLesson.pdb
